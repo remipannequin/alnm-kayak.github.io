@@ -28,9 +28,9 @@ postal: "ALNM, Section Canoë-Kayak, Mairie, 3 Rue Cap. Caillon, 54230 Neuves-Ma
 loc: "Rue Aristide Briand, 54550 Pont-Saint-Vincent"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alnm-kayak.com" # the base hostname & protocol for your site, e.g. http://example.com
-siret: "78334798200010"
+siret: "78334798200069"
 ffck: "5409"
-ape: 9312Z
+ape: 93.12Z
 drdjscs: 54S367
 eaps: 05413ET0025
 
