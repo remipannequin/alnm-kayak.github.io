@@ -53,6 +53,7 @@ plugins:
 minima:
   social_links:
     facebook: alnm-section-kayak
+    youtube: http://www.youtube.com/@alnmkayak3426
     
 minima:
   skin: sunrise
