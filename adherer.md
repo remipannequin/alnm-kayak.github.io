@@ -15,7 +15,7 @@ séance (13h30 ou 17h).
 Les inscriptions sont valables sur une année civile (de janvier à décembre); mais
 il est possible de commencer en septembre, ou en cours d'année.
 
-Quels sont les modalités d'inscription ?
+## Quelles sont les modalités d'inscription ?
 
 * Il faut [savoir nager 25m et pouvoir s'immerger](assets/docs/aisance_aquatique.pdf)
 * Avoir 9 ans minimum.
