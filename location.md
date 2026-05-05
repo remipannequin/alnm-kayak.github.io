@@ -48,7 +48,7 @@ Horaires de départ:
  * De 10h00 à 16h30.
  * À partir de 9h00 sur réservation.
 
- 
+_En période de chaleur, pensez à vous munir de couvres-chefs et de bouteilles d'eau !_
 
 Renseignements et réservations:
 Tel: 06 82 18 02 62
