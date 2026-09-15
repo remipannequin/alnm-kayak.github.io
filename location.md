@@ -35,8 +35,8 @@ Bateau biplace   | 27€  |
 
 ### Infos pratiques
 
-En avril, mai, juin et septembre :
-Sur réservation, semaine et week-end.
+En mai, juin et septembre :
+Ouvert les week-ends et jours fériés, sur réservation uniquement.
 
 En juillet et août :
 Ouvert tous les jours, réservation recommandée.
